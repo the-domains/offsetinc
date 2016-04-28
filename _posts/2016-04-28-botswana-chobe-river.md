@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Botswana, Chobe River'
-datePublished: '2016-04-28T19:19:32.770Z'
-dateModified: '2016-04-28T19:17:24.672Z'
+description: "I'm a part time photographer and as part of my work I get to travel to some truly amazing and beautiful places. All of the images uploaded here were taken by me and are if you might be interested for sale as limited edition prints."
+datePublished: '2016-04-28T19:24:22.539Z'
+dateModified: '2016-04-28T19:19:39.172Z'
 title: ''
 author:
   - name: Brett Reimers
@@ -25,8 +25,6 @@ _type: Article
 
 ---
 I'm a part time photographer and as part of my work I get to travel to some truly amazing and beautiful places. All of the images uploaded here were taken by me and are if you might be interested for sale as limited edition prints.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/110d4b9e-3afd-4130-aa94-cd7e3a2767b4.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f38a124d0fa05261b767b71bfb621a8cb98563f1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fa0ec18-5542-43a3-a75c-67da30d822fb.jpg)
 
 I've been up to Kasane a few time and the sunsets never cease to inspire.
