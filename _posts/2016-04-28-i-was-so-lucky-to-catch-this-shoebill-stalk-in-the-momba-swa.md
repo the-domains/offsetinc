@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I was so lucky to catch this Shoebill stalk in the Momba Swamps in Uganda. What an amazing siting. If you ever have the chance you must get a local guide to show you just how amazing birding by boat can be.
-datePublished: '2016-04-28T19:27:59.447Z'
-dateModified: '2016-04-28T19:23:09.412Z'
+datePublished: '2016-04-28T19:33:46.459Z'
+dateModified: '2016-04-28T19:28:09.328Z'
 title: ''
 author:
   - name: Brett Reimers
