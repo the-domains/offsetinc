@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Botswana, Chobe River'
-datePublished: '2016-04-28T19:01:57.810Z'
-dateModified: '2016-04-28T19:01:57.411Z'
+datePublished: '2016-04-28T19:05:49.089Z'
+dateModified: '2016-04-28T19:02:38.366Z'
 title: ''
 author:
   - name: Brett Reimers
@@ -17,9 +17,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-28-botswana-chobe-river.md
 published: true
+starred: true
 url: botswana-chobe-river/index.html
 _type: Article
 
